@@ -19,9 +19,7 @@ background-size:cover;
 </head>
 <body>
 <%@include file="Components/Navbar.jsp"%>
-<% Connection con= ConnectionProvider.getConnection(); 
 
-%>
 <div class="container back-img">
 <h2 class="text-center text-primary">Welcome to your phoneBook Web App</h2>
 </div>
